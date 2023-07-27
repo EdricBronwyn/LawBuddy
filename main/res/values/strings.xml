@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Law Buddy</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="bankruptcy_law">Bankruptcy</string>
+    <string name="business_law">Business</string>
+    <string name="constitutional_law">Constitutional</string>
+    <string name="criminalDefence_law">Criminal Defense</string>
+    <string name="employmentLabor_law">Emp/Labor</string>
+    <string name="entertainment_law">Entertainment</string>
+    <string name="estatePlanning_law">Estate Planning</string>
+    <string name="immigration_law">Immigration</string>
+    <string name="intellectualProperty_law">Intel. Property</string>
+    <string name="family_law">Family</string>
+    <string name="personalInjury_law">Personal Injury</string>
+    <string name="tax_law">Tax</string>
+
+    <string name="back_button">Back</string>
+    <string name="home_button">Home</string>
+    <string name="forward_button">Forward</string>
+</resources>
